@@ -1,0 +1,7 @@
+-- Lire le fichier avec les ID et MODELE
+-- Go to url
+-- boucle for du nombre de ligne dans le fichier des modèles
+   -- if la sélection de l'id = id du menu déroulant
+   -- id 
+-- crée un fichier avec les url de toutes les vues
+ 
